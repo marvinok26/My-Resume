@@ -12,7 +12,7 @@ body {
 .sec1 {
     clear: left;
     float: left;
-    width: 20%;
+    width: 21.5%;
     text-align: justify;
     margin-left: 30px;
     margin-right: 20px;
@@ -163,6 +163,13 @@ h3 {
     color: #ffffff;
 }
 
+.wrapper .linkedin:hover,
+.wrapper .linkedin:hover .tooltip,
+.wrapper .linkedin:hover .tooltip::before {
+    background: rgb(31, 31, 250);
+    color: #ffffff;
+}
+
 .wrapper .youtube:hover,
 .wrapper .youtube:hover .tooltip,
 .wrapper .youtube:hover .tooltip::before {
@@ -221,9 +228,8 @@ h3 {
 }
 
 
-.contacts_wrapper .phone:hover,
-.contacts_wrapper .phone:hover .tooltip,
-.contacts_wrapper .phone:hover .tooltip::before {
+.contacts_wrapper .phone,
+.contacts_wrapper .phone .tooltip{
     background: #25D366;
     color: #ffffff;
 }
