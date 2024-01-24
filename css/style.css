@@ -1,4 +1,5 @@
 body {
+    font-family:Arial, Helvetica, sans-serif;
     background-image: radial-gradient(circle at 29% 55%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 4%, transparent 4%, transparent 44%, transparent 44%, transparent 100%), radial-gradient(circle at 85% 89%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 51%, transparent 51%, transparent 52%, transparent 52%, transparent 100%), radial-gradient(circle at 6% 90%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 53%, transparent 53%, transparent 64%, transparent 64%, transparent 100%), radial-gradient(circle at 35% 75%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 6%, transparent 6%, transparent 98%, transparent 98%, transparent 100%), radial-gradient(circle at 56% 75%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 16%, transparent 16%, transparent 23%, transparent 23%, transparent 100%), radial-gradient(circle at 42% 0%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 3%, transparent 3%, transparent 26%, transparent 26%, transparent 100%), radial-gradient(circle at 29% 28%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 51%, transparent 51%, transparent 75%, transparent 75%, transparent 100%), radial-gradient(circle at 77% 21%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 35%, transparent 35%, transparent 55%, transparent 55%, transparent 100%), radial-gradient(circle at 65% 91%, rgba(252, 252, 252, 0.24) 0%, rgba(252, 252, 252, 0.24) 46%, transparent 46%, transparent 76%, transparent 76%, transparent 100%), linear-gradient(177deg, rgba(83, 87, 235, 0.52), rgba(22, 11, 174, 0.36));
 }
 
@@ -206,8 +207,8 @@ h3 {
 
 .contacts_wrapper .tooltip {
     position: absolute;
-    width: 100px;
-    margin-left: 150px;
+    width: 110px;
+    margin-left: 160px;
     text-align: center;
     top: 0;
     font-size: 13px;
@@ -249,10 +250,29 @@ h3 {
 }
 
 
-
-
-
-
 .skills {
     margin-top: 170px;
 }
+.skills ul{
+    padding: 10px;
+    margin-left: 20px;
+}
+.skills ul li{
+    margin-top: 5px;
+}
+
+.li_edu{
+    margin-top: 10px;
+}
+
+.ul_education {
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+.li_education{
+    margin-left: 30px;
+    font-weight: 600;
+}
+
