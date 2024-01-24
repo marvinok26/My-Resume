@@ -13,7 +13,9 @@ This is my portfolio project, created as part of my independent school project. 
 - **Contact Information:** How to get in touch with me for collaboration, job opportunities, or just to connect.
 
 ## Future Enhancements
-The Project will be able to showcase a gallery of me at work. Other improvements will be noted.
+The website will be able to feature a gallery of me at work.
+An added form where users can send me feedback which will be stored in a json file
+---Other improvements will be noted.
 
 ## Feedback
 Feedback is always welcome! If you have any suggestions, improvements, or just want to say hello, feel free to reach out to me.

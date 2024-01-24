@@ -199,7 +199,7 @@ h3 {
     background: #ffffff;
     border-radius: 50%;
     padding: 5px;
-    margin: 5px;
+    margin: 15px;
     width: 30px;
     height: 30px;
     font-size: 18px;
@@ -214,8 +214,8 @@ h3 {
 
 .contacts_wrapper .tooltip {
     position: absolute;
-    width: 110px;
-    margin-left: 160px;
+    width: 210px;
+    margin-left: 260px;
     text-align: center;
     top: 0;
     font-size: 13px;
@@ -227,6 +227,10 @@ h3 {
 
 }
 
+.contacts_wrapper .tooltip_text {
+    color: black;
+}
+
 
 .contacts_wrapper .phone,
 .contacts_wrapper .phone .tooltip{
@@ -234,23 +238,14 @@ h3 {
     color: #ffffff;
 }
 
-.contacts_wrapper .email:hover,
-.contacts_wrapper .email:hover .tooltip,
-.contacts_wrapper .email:hover .tooltip::before {
+.contacts_wrapper .email,
+.contacts_wrapper .email .tooltip{
     background: #DB4437;
     color: #ffffff;
 }
 
-.contacts_wrapper .github:hover,
-.contacts_wrapper .github:hover .tooltip,
-.contacts_wrapper .github:hover .tooltip::before {
-    background: #833ab4;
-    color: #ffffff;
-}
-
-.contacts_wrapper .location:hover,
-.contacts_wrapper .location:hover .tooltip,
-.contacts_wrapper .location:hover .tooltip::before {
+.contacts_wrapper .location,
+.contacts_wrapper .location .tooltip{
     background: teal;
     color: #ffffff;
 }
