@@ -1,10 +1,10 @@
-# Portfolio Project - [Project Name]
+# Resume Project
 
 ## Author
 Marvin Okongo
 
 ## Overview
-This is my portfolio project, created as part of my independent school project. The portfolio serves as a showcase of my skills, projects, and achievements. It provides a glimpse into my journey as a Software Engineer professional and highlights the projects I have worked on.
+This resume serves as a showcase of my skills, projects, and achievements. It provides a glimpse into my journey as a Software Engineer professional and highlights the projects I have worked on.
 
 ## Features
 - **Project Showcase:** A collection of projects that demonstrate my skills and abilities.
